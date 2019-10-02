@@ -1,33 +1,60 @@
-#:small_blue_diamond: Project Name Here :small_blue_diamond:
-****
-####Members:  :smirk:   :muscle:
-- Chi
-- Tarik
-- Diego
+#  🔹 Resume Builder 🔹
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000)
+[![Twitter: cltn39](https://img.shields.io/twitter/follow/cltn39.svg?style=social)](https://twitter.com/cltn39)
 
-###Description :eyes: :newspaper:
-****
-Making a resume is never a fun process, it feels more like a chore honestly. We wanted to make a site where you could make your resume's "pop" more and not make it feel as daunting. After submitting a little bit of information about themselves, users then decide which template to use as a template for their resume. Once chosen, our site will do the rest and paste the information into the designated areas.
+> full stack web application that takes form data into preset PDF information
 
-###How does it work? :information_desk_person: :hammer: :wrench: 
-****
-[screenshot of the login goes here]
-We begin by first attempting to login to the main page and registering yourself as a user.
-[next screenshot of info]
-Once you register with your email & password, you will then be asked to input your basic information. We then use jQuery to grab the user information from the text fields and input them into the database. Doing this will make it so next time you log in, it will check to see if the users information matches the database to log in.
-[screenshot of templates to select]
-This is where the user gets to select a template from several options. We wanted to have a variety of styles and colors to better suit the individual user on what they think should stand out from the rest. 
-###Technologies
-****
-Node, MySQL, Heroku, Passport, API, Flash, jQuery
-npm packages:
-- bcrypt
-- handlebars
-- session
-- sequelize
-- express
-- mysql2
-- mocha chai
-- eslint
-- travis
+## 📰 Description
+> Making a resume is never a fun process, it feels more like a chore honestly. We wanted to make a site where you could make your resume's "pop" more and not make it feel as daunting. After submitting a little bit of information about themselves, users then decide which template to use as a template for their resume. Once chosen, our site will do the rest and paste the information into the designated areas.
 
+## 🔨 Technologies
+Node, MySQL, Heroku, Passport, API, Flash, jQuery npm packages:
+
+* bcrypt
+* handlebars
+* session
+* sequelize
+* express
+* mysql2
+* mocha chai
+* eslint
+* travis
+
+## Install
+```sh
+npm install resume-builder
+```
+
+## Usage
+
+```sh
+npm run dev
+```
+
+## Run tests
+
+```sh
+npm run test
+```
+
+## Author
+
+👤 **Chris Song**
+
+* Twitter: [@cltn39](https://twitter.com/cltn39)
+* Github: [@cltn39](https://github.com/cltn39)
+
+👤 **Diego**
+
+* Github: [@diesol49](https://github.com/diesol49)
+
+👤 **Tarik**
+
+* Github: [@tarikdeshon](https://github.com/tarikdeshon)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+***
